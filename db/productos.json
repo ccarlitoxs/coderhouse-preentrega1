@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "product": {
+      "nombre": "nombreCambiado",
+      "descripcion": "desc",
+      "codigo": 1,
+      "foto": "url",
+      "precio": 15,
+      "stock": 10,
+      "timestamp": 1630785885086
+    }
+  },
+  {
+    "id": 2,
+    "product": {
+      "nombre": "nombre",
+      "descripcion": "desc",
+      "codigo": 1,
+      "foto": "url",
+      "precio": 10,
+      "stock": 5,
+      "timestamp": 1630785401962
+    }
+  },
+  {
+    "id": 3,
+    "product": {
+      "nombre": "nombre",
+      "descripcion": "desc",
+      "codigo": 1,
+      "foto": "url",
+      "precio": 10,
+      "stock": 5,
+      "timestamp": 1630785427387
+    }
+  }
+]
